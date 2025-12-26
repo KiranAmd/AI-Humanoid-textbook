@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://localhost:3000',
+  url: 'ai-humanoid-textbook-ipeb-9f6sysask.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   baseUrl: '/',
 
